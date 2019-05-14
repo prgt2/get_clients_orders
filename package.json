@@ -1,0 +1,16 @@
+{
+  "name": "get_orders",
+  "version": "1.0.0",
+  "description": "A simple script for getting orders by client ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "request": "^2.88.0",
+    "sha1": "^1.1.1"
+  }
+}
