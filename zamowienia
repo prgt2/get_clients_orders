@@ -1,0 +1,90 @@
+{
+  "orderSerialNumber": "1"
+}
+{
+  "orderPaymentType": "cash_on_delivery"
+}
+{
+  "orderProductsCost": "3010.20",
+  "orderDeliveryCost": "35.10",
+  "orderPayformCost": "0.00",
+  "billingCurrency": "PLN"
+}
+{
+  "courierName": "Paczka w RUCHu by IAI MINI paczka"
+}
+{
+  "orderStatus": "packed",
+  "orderAddDate": "2017-11-28 15:25:16",
+  "clientNoteToOrder": "testowe",
+  "clientNoteToCourier": "",
+  "orderNote": ""
+}
+{
+  "orderSourceName": "Wejście bezpośrednie"
+}
+{
+  "city": "Szczecin",
+  "street": "MALCZEWSKIEGO 1",
+  "zipCode": "71-616",
+  "name": "Kiosk Ruchu 124925"
+}
+{
+  "clientFirstName": "Support",
+  "clientLastName": "IAI S.A.",
+  "clientStreet": "Al. Piastów 30",
+  "clientZipCode": "71-064",
+  "clientCity": "Warszawa",
+  "clientCountryId": "pl",
+  "clientPhone1": "+48 91 443 66 00"
+}
+{
+  "clientId": "1",
+  "clientLogin": "iaisystem",
+  "clientEmail": "test@ol.com"
+}
+{
+  "orderSerialNumber": "11"
+}
+{
+  "orderPaymentType": "cash_on_delivery"
+}
+{
+  "orderProductsCost": "0.00",
+  "orderDeliveryCost": "0.00",
+  "orderPayformCost": "0.00",
+  "billingCurrency": "PLN"
+}
+{
+  "courierName": "Odbiór osobisty"
+}
+{
+  "orderStatus": "ready",
+  "orderAddDate": "2018-10-15 11:15:09",
+  "clientNoteToOrder": "",
+  "clientNoteToCourier": "",
+  "orderNote": ""
+}
+{
+  "orderSourceName": "Panel"
+}
+{
+  "city": null,
+  "street": null,
+  "zipCode": null,
+  "name": null
+}
+{
+  "clientFirstName": "Support",
+  "clientLastName": "IAI S.A.",
+  "clientStreet": "Al. Piastów 30",
+  "clientZipCode": "71-064",
+  "clientCity": "Warszawa",
+  "clientCountryId": "pl",
+  "clientPhone1": "+48 91 443 66 00"
+}
+{
+  "clientId": "1",
+  "clientLogin": "iaisystem",
+  "clientEmail": "test@ol.com"
+}

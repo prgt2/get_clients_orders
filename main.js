@@ -17,6 +17,6 @@ let ask = () => {
         json: credentials,
     }, (error, response, body) => {
         if (error) console.log(error);
-    }).pipe(fs.createWriteStream('./zamowienia.json'));
+    }).pipe(fs.createWriteStream('./zamowienia'));
 }
 ask(); 
